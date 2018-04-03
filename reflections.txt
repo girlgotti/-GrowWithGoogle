@@ -7,6 +7,6 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
-I have learned HTMl basics
-Nothing has been "easy" but the fact that I am passed lesson 1 and on lesson 4 is a reflection of growth.
-I have used the strategies to not give up which is the key to problem solving 
+<ul>I have learned HTMl basics.</ul>
+<ul>Nothing has been "easy" but the fact that I am passed lesson 1 and on lesson 4 is a reflection of growth.</ul>
+<ul>I have used the strategies to not give up which is the key to problem solving.</ul>
